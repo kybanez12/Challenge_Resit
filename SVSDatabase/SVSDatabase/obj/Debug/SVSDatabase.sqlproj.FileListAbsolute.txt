@@ -1,0 +1,9 @@
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\bin\Debug\SVSDatabase.dacpac
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\bin\Debug\SVSDatabase.dll
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\bin\Debug\SVSDatabase.pdb
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\obj\Debug\SVSDatabase.dll
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\obj\Debug\SVSDatabase.pdb
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\obj\Debug\Model.xml
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\obj\Debug\refactor.xml
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\obj\Debug\postdeploy.sql
+C:\Users\STUDENT\Source\Repos\Challenge_Resit\SVSDatabase\SVSDatabase\obj\Debug\predeploy.sql
